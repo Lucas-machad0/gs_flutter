@@ -5,7 +5,7 @@ Integrantes:
     Lucas Machado 557431
     Pedro Salimon 555038
 -----------------------------------------------------------------------------------
-Link GitHub: 
+Link GitHub: https://github.com/Lucas-machad0/gs_flutter
 -----------------------------------------------------------------------------------
 
 Aplicativo mobile desenvolvido em Flutter para troca de livros entre leitores da mesma comunidade.
